@@ -36,7 +36,7 @@ int main(void)
     int tab[6] = {8, 11, 3, 6, 9, 10};
     int i;
 
-    quickSort(tab, 0, 4);
+    quickSort(tab, 0, 5);
 
     for(i = 0; i < 5; i++)
     {
